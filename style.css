@@ -1,0 +1,16 @@
+body{
+    box-sizing: border-box;
+    width: 100%;
+    background-image: url(./images/pexels-ann-h-1762851.jpg); 
+    background-size: cover;
+}
+
+.name{
+    background-color: #C3447A;
+    font-style: italic;
+}
+
+.attr{
+    background-color: #DFCFBE;
+    overflow-wrap: break-word;
+}
